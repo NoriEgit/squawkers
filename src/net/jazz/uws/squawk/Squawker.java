@@ -4,7 +4,7 @@
 package net.jazz.uws.squawk;
 
 /**
- * @author NoriEgit
+ * @author NoriEgit NoriEgit
  * 
  */
 public abstract class Squawker {
