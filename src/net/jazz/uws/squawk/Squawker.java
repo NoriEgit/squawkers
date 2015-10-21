@@ -10,7 +10,7 @@ package net.jazz.uws.squawk;
 public abstract class Squawker {
 
 	/**
-	 * Returns the text of the squawk.
+	 * Returns the text of the squawk.asadfasdfasdfasdfasdf
 	 * 
 	 * @return this squawker's text
 	 */
