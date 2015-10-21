@@ -15,7 +15,7 @@ import org.junit.Test;
 public class TestCat {
 
 	/**
-	 * Test method for {@link net.jazz.uws.squawkers.Cat#squawk()}.
+	 * Test method for {@link net.jazz.uws.squawkers.Cat#squawk()}.　あああああああ
 	 */
 	@Test
 	public void testSquawk() {
